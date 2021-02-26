@@ -1,2 +1,3 @@
-# NotePad
-Windows form application notepad including code editor for C#. 
+# NoTePaD
+Windows form application notepad like notion,
+including code editor and compiler for C#. 
